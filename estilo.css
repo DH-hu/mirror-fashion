@@ -1,0 +1,25 @@
+{color:	blue;
+background-color:  yellow;}
+
+<p style= "color:	blue;	background-color:	yellow;">
+
+</p>
+
+h1	{
+  font-family:  serif;
+}
+h2	{
+  font-family:  sans-serif;
+}
+p	{
+  font-family:	monospace;
+}
+figure	{
+    background-color: #F2EDED;
+    border: 1px	solid	#ccc;
+    text-align:	center;
+}
+figcaption	{
+    font-style:	italic;
+
+}
